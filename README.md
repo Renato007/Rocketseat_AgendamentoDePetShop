@@ -33,7 +33,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 É uma aplicação de agendamento para poder cortar cabelo.
 
-- [Visite o projeto online](https://renato007.github.io/Rocketseat-refund-Solicita-o-de-reembolso)
+- [Visite o projeto online](https://renato007.github.io/Rocketseat_AgendamentoDePetShop)
 
 ## 💻 Pontos de aprendizagem
 * observação - [nota]()
