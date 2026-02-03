@@ -7,8 +7,8 @@ Projeto acadêmico promovido pela Rocketseat para aprendizagem de tecnológia na
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-Pontos de aprendizagem">Pontos de aprendizagem</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-memo-licença">Licença</a>
+  <a href="#-Pontos-de-aprendizagem">Pontos de aprendizagem</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-licença">Licença</a>
 </p>
 
 <p align="center">
